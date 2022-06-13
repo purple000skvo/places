@@ -14,7 +14,7 @@ public class PlacesService {
     /**
      * Retrieves Place by id
      *
-     * @param id
+     * @param id id of the place
      * @return {@link Place}
      */
     public Place getById(String id) {
